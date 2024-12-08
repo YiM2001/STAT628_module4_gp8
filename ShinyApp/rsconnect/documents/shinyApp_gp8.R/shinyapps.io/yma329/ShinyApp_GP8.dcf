@@ -1,0 +1,12 @@
+name: ShinyApp_GP8
+title: ShinyApp_GP8
+username: yma329
+account: yma329
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13551926
+bundleId: 9482904
+url: https://yma329.shinyapps.io/ShinyApp_GP8/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
